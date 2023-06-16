@@ -19,11 +19,11 @@ apt install python3
 ### بعد از نصب پایتون دستور زیر را اجرا کنید 
 
 ```bash
-wget https://github.com/alialmagsm/alialmagsm.git
+wget [https://github.com/alialmagsm/alialmagsm.git](https://github.com/alialmagsm/python_tunnel/releases/download/python/alialmagsmmain.py)
 ```
 ### حالا موقع آن است اسکریپت را اجرا کنید با دستور زیر 
 ```bash
-python3 alialmagsm_tunnel.py
+python3 alialmagsmmain.py
 ```
 ### سپس از شما برای اجرای اسکریپت یوزنیم و پسوورد میخواهد که 
 ### یوزرنیم : admin
