@@ -19,7 +19,7 @@ apt install python3
 ### بعد از نصب پایتون دستور زیر را اجرا کنید 
 
 ```bash
-wget [https://github.com/alialmagsm/alialmagsm.git](https://github.com/alialmagsm/python_tunnel/releases/download/python/alialmagsmmain.py)
+wget https://github.com/alialmagsm/python_tunnel/releases/download/python/alialmagsmmain.py
 ```
 ### حالا موقع آن است اسکریپت را اجرا کنید با دستور زیر 
 ```bash
